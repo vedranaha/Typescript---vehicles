@@ -1,3 +1,3 @@
 # Typescript-vehicles
-##IT Academy's exercise
- Object-oriented programming, HTML, CSS, Typescript
+## IT Academy's exercise
+ object-oriented programming, HTML, CSS, Typescript
